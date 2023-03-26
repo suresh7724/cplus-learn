@@ -2,6 +2,12 @@
     "files.associations": {
         "*.embeddedhtml": "html",
         "*.scss": "scss",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "istream": "cpp",
+        "*.tcc": "cpp",
+        "fstream": "cpp",
+        "ostream": "cpp",
+        "streambuf": "cpp",
+        "type_traits": "cpp"
     }
 }
